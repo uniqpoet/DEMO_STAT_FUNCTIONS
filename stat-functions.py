@@ -41,6 +41,13 @@ def totalFun(aList):
 # function above
 
 
+def meanFun(somelist):    
+    sum = 0        
+    for x in somelist:
+        sum = sum + x
+    listitems = len(somelist)
+    return sum/listitems
+
 
 # Define a function devFun
 # Input: a List
