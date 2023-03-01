@@ -22,6 +22,9 @@ deviation =    / sum[(x - mean)^2]
 
     TO BE DONE:
     1. Mean Function, meanFun
+
+    All that extra info ain't even necessary...
+    Raquel is a nice person.
     
 """
 
